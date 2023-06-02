@@ -6,3 +6,6 @@ This is a personal project worked on showing the happiness scores of countries a
 * The dataset was cleaned and formatted using excel spreadsheets and sql - [See sql query here](https://github.com/SEYI-FASE/world_record_2023_sql.git)
 * Exploration,findings and visualizations were derived using tableau
 * Visualization and overview can be viewed - [Visualizations](https://public.tableau.com/views/WorldHappinessRecord-2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Visualization
+![Dashboard 1 (1)](https://github.com/SEYI-FASE/Seyi/assets/134503256/d7a63f34-14c9-4b3f-b411-8c1e9e983040)
