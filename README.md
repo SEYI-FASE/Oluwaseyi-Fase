@@ -1,6 +1,6 @@
 # Seyi
 # My portfolio
-## project 1: World Happiness score - 2023
+## Project 1: World Happiness score - 2023
 This is a personal project worked on showing the happiness scores of countries all over the world for the year 2023 and the factors that are believed to influence the happiness of each country and its rank on the ladder score. 
 * The data used was gotten from a public database, kaggle.com
 * The dataset was cleaned and formatted using excel spreadsheets and sql
