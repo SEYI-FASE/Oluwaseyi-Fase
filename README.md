@@ -4,7 +4,7 @@ This is a personal project worked on showing the happiness scores of countries a
 
 * The data used was gotten from a public database, kaggle.com
 
-* The dataset was cleaned and formatted using excel spreadsheets and sql - [See sql query heere](https://github.com/SEYI-FASE/Oluwaseyi_Fase/files/11642227/world.record.sql.txt)
+* The dataset was cleaned and formatted using excel spreadsheets and sql - [See sql query here](https://github.com/SEYI-FASE/Oluwaseyi_Fase/files/11642227/world.record.sql.txt)
 
 * Exploration,findings and visualizations were derived using tableau
 
