@@ -12,6 +12,8 @@ This is a personal project worked on showing the happiness scores of countries a
 ![Dashboard 1 (1)](https://github.com/SEYI-FASE/Seyi/assets/134503256/d7a63f34-14c9-4b3f-b411-8c1e9e983040)
 
 
+
+
 ## Project 2: World busisness records 
 This is a personal project that answers specific analytical questions listed below through visualizations and sql queries
 >>> * Oldest business in the world
